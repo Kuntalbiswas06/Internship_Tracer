@@ -2,7 +2,7 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**162 companies tracked** · 161 OK · 1 failing · 12 not tracked · Last updated: 2026-11-20 (IST)
+**162 companies tracked** · 161 OK · 1 failing · 12 not tracked · Last updated: 2026-11-21 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Anyscale | ashby | ✅ OK | 2026-11-20 | 0 |
 | AQR Capital | greenhouse | ✅ OK | 2026-11-20 | 0 |
 | Atlan | ashby | ✅ OK | 2026-11-20 | 0 |
-| Baxter | workday | ✅ OK | 2026-11-20 | 1 |
+| Baxter | workday | 🔍 verifying a drop in postings | 2026-11-20 | 1 |
 | Bosch | smartrecruiters | ✅ OK | 2026-11-20 | 0 |
 | Broadcom | workday | ✅ OK | 2026-11-20 | 0 |
 | BrowserStack | workday | ✅ OK | 2026-11-20 | 0 |
@@ -124,7 +124,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | onsemi | oracle_hcm | ✅ OK | 2026-11-20 | 0 |
 | OpenAI | ashby | ✅ OK | 2026-11-20 | 0 |
 | Palo Alto Networks | workday | ✅ OK | 2026-11-20 | 0 |
-| Paytm | lever | ✅ OK | 2026-11-20 | 1 |
+| Paytm | lever | ✅ OK | 2026-11-20 | 0 |
 | Philips | workday | ✅ OK | 2026-11-20 | 0 |
 | PhonePe | smartrecruiters | ✅ OK | 2026-11-20 | 0 |
 | Plane | ashby | ✅ OK | 2026-11-20 | 0 |
@@ -163,7 +163,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Wolters Kluwer | workday | ✅ OK | 2026-11-20 | 0 |
 | Workday | workday | ✅ OK | 2026-11-20 | 0 |
 | WorldQuant | greenhouse | ✅ OK | 2026-11-20 | 0 |
-| Zebra Technologies | workday | ✅ OK | 2026-11-20 | 13 |
+| Zebra Technologies | workday | ✅ OK | 2026-11-20 | 14 |
 | Zeta | lever | ✅ OK | 2026-11-20 | 0 |
 | Zeta Global | greenhouse | ✅ OK | 2026-11-20 | 0 |
 | Zscaler | greenhouse | ✅ OK | 2026-11-20 | 0 |
