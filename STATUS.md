@@ -2,7 +2,7 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-22 (IST)
+**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-23 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Temporal | ashby | ✅ OK | 2026-11-22 | 0 |
 | Thomson Reuters | workday | ✅ OK | 2026-11-22 | 0 |
 | Toast | greenhouse | ✅ OK | 2026-11-22 | 0 |
-| TransUnion | workday | ✅ OK | 2026-11-22 | 1 |
+| TransUnion | workday | ✅ OK | 2026-11-22 | 0 |
 | Trimble | workday | ✅ OK | 2026-11-22 | 0 |
 | Turing | greenhouse | ✅ OK | 2026-11-22 | 0 |
 | Unisys | workday | ✅ OK | 2026-11-22 | 0 |
@@ -163,7 +163,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Wolters Kluwer | workday | ✅ OK | 2026-11-22 | 0 |
 | Workday | workday | ✅ OK | 2026-11-22 | 0 |
 | WorldQuant | greenhouse | ✅ OK | 2026-11-22 | 0 |
-| Zebra Technologies | workday | ✅ OK | 2026-11-22 | 5 |
+| Zebra Technologies | workday | ✅ OK | 2026-11-22 | 1 |
 | Zeta | lever | ✅ OK | 2026-11-22 | 0 |
 | Zeta Global | greenhouse | ✅ OK | 2026-11-22 | 0 |
 | Zscaler | greenhouse | ✅ OK | 2026-11-22 | 0 |
