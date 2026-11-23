@@ -865,7 +865,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-23T08:04:34.978952Z",
     "company": "Agoda",
     "company_slug": "agoda",
     "date_posted": "2024-10-11",
@@ -878,10 +878,10 @@
     "locations": [
       "Gurgaon"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "greenhouse",
-    "status": "open",
+    "status": "closed",
     "title": "Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office",
     "url": "https://job-boards.greenhouse.io/agoda/jobs/6323041"
   },
@@ -1642,7 +1642,7 @@
     "locations": [
       "Bangalore Area"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -1822,7 +1822,7 @@
     "locations": [
       "Bangalore Area"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5558,11 +5558,11 @@
     "first_seen": "2026-11-17T13:20:43.066677Z",
     "id": "workday:sp-global:332797-1",
     "is_remote": false,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "locations": [
       "Mumbai, Maharastra"
     ],
-    "missed_runs": 2,
+    "missed_runs": 0,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5588,11 +5588,11 @@
     "first_seen": "2026-11-17T18:40:47.574810Z",
     "id": "workday:sp-global:332883-1",
     "is_remote": false,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "locations": [
       "Ahmedabad, Gujarat"
     ],
-    "missed_runs": 2,
+    "missed_runs": 0,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5661,7 +5661,7 @@
   },
   {
     "category": "other",
-    "closed_at": "2026-11-22T19:26:34.501152Z",
+    "closed_at": null,
     "company": "TransUnion",
     "company_slug": "transunion",
     "date_posted": null,
@@ -5678,14 +5678,14 @@
     "first_seen": "2026-11-19T12:20:45.530208Z",
     "id": "workday:transunion:19043345",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "locations": [
       "Hyderabad"
     ],
-    "missed_runs": 3,
+    "missed_runs": 0,
     "notified": true,
     "source": "workday",
-    "status": "closed",
+    "status": "open",
     "title": "Intern - Process Excellence",
     "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Intern---Process-Excellence_19043345"
   },
@@ -5724,7 +5724,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-23T08:04:34.978952Z",
     "company": "Zebra Technologies",
     "company_slug": "zebra-technologies",
     "date_posted": null,
@@ -5737,10 +5737,10 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237"
   },

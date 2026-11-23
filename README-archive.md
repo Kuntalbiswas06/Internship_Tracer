@@ -2,11 +2,12 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**152 closed** · Last updated: 2026-11-23 (IST)
+**153 closed** · Last updated: 2026-11-23 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
-| TransUnion<br><sub>Finance</sub> | Intern - Process Excellence<br><sub>🎓 Bachelor’s degree</sub> | Hyderabad | — | — | — | [Apply](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Intern---Process-Excellence_19043345) | 2026-11-19 | 2026-11-23 |
+| Agoda<br><sub>Big Tech</sub> | Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office | Gurgaon | 2027 | — | — | [Apply](https://job-boards.greenhouse.io/agoda/jobs/6323041) | 2024-10-11 | 2026-11-23 |
+| Zebra Technologies<br><sub>Big Tech</sub> | 2027 (6 Month) Internship - (Bengaluru) Software Engineering | Bengaluru, India | 2027 | — | — | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237) | 2026-11-21 | 2026-11-23 |
 | Zebra Technologies<br><sub>Big Tech</sub> | Intern-1<br><sub>🎓 degree-seeking post-secondary educational institution</sub> | Bengaluru, India | — | — | — | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-1_JR103383) | 2026-11-19 | 2026-11-23 |
 | Zebra Technologies<br><sub>Big Tech</sub> | Intern support II-1<br><sub>🎓 degree-seeking post-secondary educational institution</sub> | Bengaluru, India | — | — | — | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-support-II-1_JR103384) | 2026-11-19 | 2026-11-23 |
 | Zebra Technologies<br><sub>Big Tech</sub> | Intern support II-1<br><sub>🎓 degree-seeking post-secondary educational institution</sub> | Bengaluru, India | — | — | — | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-support-II-1_JR103681) | 2026-11-19 | 2026-11-23 |

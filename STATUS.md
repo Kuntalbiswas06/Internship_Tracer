@@ -51,7 +51,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Visa | workday | ✅ OK | 2026-11-23 | 0 |
 | Wells Fargo | workday | ✅ OK | 2026-11-23 | 0 |
 | Abbott | workday | ✅ OK | 2026-11-22 | 0 |
-| Agoda | greenhouse | ✅ OK | 2026-11-23 | 1 |
+| Agoda | greenhouse | ✅ OK | 2026-11-23 | 0 |
 | Airbnb | greenhouse | ✅ OK | 2026-11-23 | 0 |
 | Airbus | workday | ✅ OK | 2026-11-23 | 6 |
 | Ameriprise Financial | workday | ✅ OK | 2026-11-22 | 0 |
@@ -153,7 +153,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Temporal | ashby | ✅ OK | 2026-11-23 | 0 |
 | Thomson Reuters | workday | ✅ OK | 2026-11-23 | 0 |
 | Toast | greenhouse | ✅ OK | 2026-11-23 | 0 |
-| TransUnion | workday | ✅ OK | 2026-11-23 | 0 |
+| TransUnion | workday | ✅ OK | 2026-11-23 | 1 |
 | Trimble | workday | ✅ OK | 2026-11-23 | 0 |
 | Turing | greenhouse | ✅ OK | 2026-11-22 | 0 |
 | Unisys | workday | ✅ OK | 2026-11-23 | 0 |
@@ -163,7 +163,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Wolters Kluwer | workday | ✅ OK | 2026-11-22 | 0 |
 | Workday | workday | ✅ OK | 2026-11-22 | 0 |
 | WorldQuant | greenhouse | ✅ OK | 2026-11-23 | 0 |
-| Zebra Technologies | workday | ✅ OK | 2026-11-23 | 1 |
+| Zebra Technologies | workday | ✅ OK | 2026-11-23 | 0 |
 | Zeta | lever | ✅ OK | 2026-11-23 | 0 |
 | Zeta Global | greenhouse | ✅ OK | 2026-11-22 | 0 |
 | Zscaler | greenhouse | ✅ OK | 2026-11-23 | 0 |
