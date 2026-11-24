@@ -2,13 +2,14 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-24 (IST)
+**162 companies tracked** · 161 OK · 1 failing · 12 not tracked · Last updated: 2026-11-24 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
+| Microsoft | eightfold | ⚠️ failing for 1 run: FetchError: HTTP 429 from microsoft.eightfold.ai | 2026-11-23 | 3 |
 | Adobe | phenom | ✅ OK | 2026-11-24 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Amazon | custom | ✅ OK | 2026-11-24 | 0 |
+| Amazon | custom | ✅ OK | 2026-11-24 | 1 |
 | AMD | custom | ✅ OK | 2026-11-24 | 0 |
 | American Express | oracle_hcm | ✅ OK | 2026-11-24 | 4 |
 | Analog Devices | workday | ✅ OK | 2026-11-24 | 0 |
@@ -31,15 +32,14 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Marvell | workday | ✅ OK | 2026-11-24 | 5 |
 | Mastercard | workday | ✅ OK | 2026-11-24 | 0 |
 | Micron | workday | ✅ OK | 2026-11-24 | 1 |
-| Microsoft | eightfold | ✅ OK | 2026-11-23 | 3 |
 | Morgan Stanley | eightfold | ✅ OK | 2026-11-24 | 0 |
 | Nvidia | workday | ✅ OK | 2026-11-24 | 1 |
 | Oracle | oracle_hcm | ✅ OK | 2026-11-24 | 0 |
 | PayPal | eightfold | ✅ OK | 2026-11-24 | 0 |
 | Quadeye | custom | ✅ OK | 2026-11-24 | 2 |
-| Qualcomm | eightfold | ✅ OK | 2026-11-23 | 1 |
+| Qualcomm | eightfold | ✅ OK | 2026-11-24 | 1 |
 | Rippling | custom | ✅ OK | 2026-11-24 | 0 |
-| Rubrik | greenhouse | ✅ OK | 2026-11-24 | 4 |
+| Rubrik | greenhouse | ✅ OK | 2026-11-24 | 3 |
 | Salesforce | workday | ✅ OK | 2026-11-24 | 0 |
 | ServiceNow | smartrecruiters | ✅ OK | 2026-11-24 | 0 |
 | Snowflake | ashby | ✅ OK | 2026-11-24 | 0 |
@@ -60,7 +60,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Anyscale | ashby | ✅ OK | 2026-11-24 | 0 |
 | AQR Capital | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Atlan | ashby | ✅ OK | 2026-11-24 | 0 |
-| Baxter | workday | ✅ OK | 2026-11-24 | 1 |
+| Baxter | workday | 🔍 verifying a drop in postings | 2026-11-24 | 1 |
 | Bosch | smartrecruiters | ✅ OK | 2026-11-24 | 0 |
 | Broadcom | workday | ✅ OK | 2026-11-22 | 0 |
 | BrowserStack | workday | ✅ OK | 2026-11-24 | 0 |
@@ -124,7 +124,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | onsemi | oracle_hcm | ✅ OK | 2026-11-22 | 0 |
 | OpenAI | ashby | ✅ OK | 2026-11-24 | 0 |
 | Palo Alto Networks | workday | ✅ OK | 2026-11-24 | 0 |
-| Paytm | lever | ✅ OK | 2026-11-24 | 0 |
+| Paytm | lever | ✅ OK | 2026-11-24 | 1 |
 | Philips | workday | ✅ OK | 2026-11-24 | 0 |
 | PhonePe | smartrecruiters | ✅ OK | 2026-11-24 | 0 |
 | Plane | ashby | ✅ OK | 2026-11-24 | 0 |

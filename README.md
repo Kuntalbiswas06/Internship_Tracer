@@ -1,7 +1,7 @@
 <!-- LISTINGS:START -->
-**53 open internships** across 24 companies · Last updated: 2026-11-24 (IST)
+**54 open internships** across 26 companies · Last updated: 2026-11-24 (IST)
 
-### Software Engineering (18)
+### Software Engineering (17)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
@@ -19,20 +19,20 @@
 | Google<br><sub>Big Tech</sub> | Software Engineering PhD Intern, Summer 2027 | Bengaluru, Karnataka, India; Hyderabad, Telangana, India; Pune, Maharashtra, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) | 78d |
 | NXP<br><sub>Semiconductor</sub> | Technical Internship 2027 | Bangalore; Noida | 2027 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Technical-Internship-2027_R-10066434) | 78d |
 | Rubrik<br><sub>Big Tech</sub> | Software Engineer (CPD) - Winter Intern<br><sub>🎓 Bachelor’s or Master’s degree, preferably in Computer Scien…</sub> | Bangalore | Winter | 2027 | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | 79d |
-| Rubrik<br><sub>Big Tech</sub> | Software Engineer - Winter Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | 79d |
 | Stripe<br><sub>Fintech</sub> | Software Engineer, Intern<br><sub>🎓 Bachelor’s or Master’s degree in computer science, math, or…</sub> | Bengaluru | — | — | — | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) | 137d |
 | Quadeye<br><sub>Quant</sub> | Intern - Systems Engineer | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430) | 148d |
 | NXP<br><sub>Semiconductor</sub> | Technical Internship (2026) | Noida; Bangalore | 2026 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Internship----SoC--IP-Design---2024-_R-10052538) | 467d |
 
-### Data & ML (8)
+### Data & ML (9)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| Amazon<br><sub>Big Tech</sub> | Data Scientist I 6M Intern | Chennai, Tamil Nadu, India | — | — | — | [Apply](https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern) | 0d |
 | Hewlett Packard Enterprise<br><sub>Big Tech</sub> | Ph D/Research Intern - AI Research Lab<br><sub>🎓 PhD</sub> | Bengaluru, Karnātaka, India | 6 months | — | 6 mo | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Research-PhD_1191423) | 12d |
 | GE HealthCare<br><sub>Industrial</sub> | Research Intern - AI<br><sub>🎓 PhD in Computer Science / Data Sciences / AI</sub> | IND19-01-Bengaluru-EPIP 122 (Phase II) | — | — | — | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) | 19d |
 | Marvell<br><sub>Semiconductor</sub> | Research Intern (PhD), AI-Scale Protocols & Simulation | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---AI-Scale-Protocols---Simulation_2604255) | 26d |
 | Marvell<br><sub>Semiconductor</sub> | Research Intern (PhD), Storage Systems for AI<br><sub>🎓 PhD, MS by Research, or MTech by Research program</sub> | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Storage-Systems-for-AI_2604256) | 26d |
-| Marvell<br><sub>Semiconductor</sub> | Research Intern, Physical AI and GPU (PhD) | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253) | 26d |
+| Marvell<br><sub>Semiconductor</sub> | Research Intern, Physical AI and Robotics Systems (PhD) | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253) | 26d |
 | Nvidia<br><sub>Semiconductor</sub> | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026<br><sub>🎓 PhD</sub> | India, Bengaluru | Fall 2026 | — | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | 27d |
 | Microsoft<br><sub>Big Tech</sub> | Applied Sciences INTERN | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556917519) | 29d |
 | Adobe<br><sub>Big Tech</sub> | 2027 Intern - Research PhD Intern | Bangalore, Karnātaka, India | 2027 | — | — | [Apply](https://careers.adobe.com/us/en/job/R173016) | 36d |
@@ -66,13 +66,14 @@
 | Airbus<br><sub>Industrial</sub> | Intern - Maintenance Engineering & Services<br><sub>🎓 AME / degree level (or equivalent) in Engineering or a rela…</sub> | Bangalore Area | — | — | — | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449517) | 8d |
 | Airbus<br><sub>Industrial</sub> | Internship- Structures | Bangalore Area | 6 months | — | 6 mo | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--Structures_JR10449142) | 19d |
 
-### Other (18)
+### Other (19)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| American Express<br><sub>Fintech</sub> | Apprentice<br><sub>🎓 Bachelor’s degree</sub> | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 0d |
+| Paytm<br><sub>Fintech</sub> | Learning Experience Design Intern | Noida, Uttar Pradesh | — | — | — | [Apply](https://jobs.lever.co/paytm/c8886602-f1b7-4c08-b181-f4d36b2d0e80) | 0d |
 | Micron<br><sub>Semiconductor</sub> | Intern | Hyderabad - Phoenix Aquila, India; Bengaluru, India | — | — | — | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596) | 1d |
 | Sarvam AI<br><sub>AI</sub> | Product User Research, Intern | Bengaluru | — | — | — | [Apply](https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72) | 4d |
-| American Express<br><sub>Fintech</sub> | Apprentice<br><sub>🎓 Bachelor’s degree</sub> | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 5d |
 | LSEG<br><sub>Finance</sub> | Intern, Accounts Receivables<br><sub>🎓 Accounting, Finance, or a related field</sub> | Colombo, Sri Lanka; IND-Bangalore-A, RMZ Infinity | — | — | — | [Apply](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Intern--Accounts-Receivables_R0125102) | 5d |
 | TransUnion<br><sub>Finance</sub> | Intern - Process Excellence<br><sub>🎓 Bachelor’s degree</sub> | Hyderabad | — | — | — | [Apply](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Intern---Process-Excellence_19043345) | 5d |
 | American Express<br><sub>Fintech</sub> | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016519) | 6d |

@@ -2,10 +2,11 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**154 closed** · Last updated: 2026-11-24 (IST)
+**155 closed** · Last updated: 2026-11-24 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
+| Rubrik<br><sub>Big Tech</sub> | Software Engineer - Winter Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | 2026-09-06 | 2026-11-24 |
 | Airbus<br><sub>Industrial</sub> | FTM Intern | Bangalore Area | 6 months | — | 6 mo | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/FTM-Intern_JR10448390) | 2026-11-05 | 2026-11-24 |
 | Airbus<br><sub>Industrial</sub> | Technical Data Analyst Intern<br><sub>🎓 AME/BTech (Aerospace/Mech)</sub> | Bangalore Area | — | — | 3 mo | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392) | 2026-11-19 | 2026-11-24 |
 | Agoda<br><sub>Big Tech</sub> | Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office | Gurgaon | 2027 | — | — | [Apply](https://job-boards.greenhouse.io/agoda/jobs/6323041) | 2024-10-11 | 2026-11-23 |
