@@ -2,10 +2,13 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**158 closed** · Last updated: 2026-11-26 (IST)
+**161 closed** · Last updated: 2026-11-27 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
+| American Express<br><sub>Fintech</sub> | Apprentice<br><sub>🎓 Bachelor’s degree</sub> | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 2026-11-24 | 2026-11-27 |
+| American Express<br><sub>Fintech</sub> | Apprentice<br><sub>🎓 Commerce/Business Administration</sub> | Bengaluru, KA, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016754) | 2026-11-18 | 2026-11-27 |
+| Eaton<br><sub>Industrial</sub> | Apprentice. IT. Development Program | Pune, Maharashtra, IND, 411014 | — | — | — | [Apply](https://eaton.eightfold.ai/careers/job/687240121118) | 2026-11-11 | 2026-11-27 |
 | Airbus<br><sub>Industrial</sub> | Internship\_ FSTD | New Delhi | 6 months | — | 6 mo | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/New-Delhi/Internship--FSTD_JR10448021) | 2026-11-05 | 2026-11-26 |
 | Airbus<br><sub>Industrial</sub> | Internship\_FSTD | New Delhi | 6 months | — | 6 mo | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/New-Delhi/Internship-FSTD_JR10448073) | 2026-11-05 | 2026-11-26 |
 | Google<br><sub>Big Tech</sub> | Forward Deployed Engineer Intern, 2027 | Bengaluru, Karnataka, India | 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/96299220855595718) | 2026-11-16 | 2026-11-26 |

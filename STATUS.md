@@ -2,7 +2,7 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-26 (IST)
+**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-27 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
@@ -10,7 +10,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-26 | 1 |
 | AMD | custom | ✅ OK | 2026-11-26 | 0 |
-| American Express | oracle_hcm | ✅ OK | 2026-11-26 | 4 |
+| American Express | oracle_hcm | ✅ OK | 2026-11-26 | 2 |
 | Analog Devices | workday | ✅ OK | 2026-11-26 | 1 |
 | Apple | custom | ✅ OK | 2026-11-26 | 0 |
 | Applied Materials | workday | ✅ OK | 2026-11-26 | 0 |
@@ -78,7 +78,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Datadog | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Druva | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Duolingo | greenhouse | ✅ OK | 2026-11-26 | 0 |
-| Eaton | eightfold | ✅ OK | 2026-11-26 | 2 |
+| Eaton | eightfold | ✅ OK | 2026-11-26 | 3 |
 | Elastic | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Equifax | workday | ✅ OK | 2026-11-26 | 0 |
 | Ericsson | eightfold | ✅ OK | 2026-11-26 | 0 |
@@ -88,7 +88,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Fivetran | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Freshworks | smartrecruiters | ✅ OK | 2026-11-26 | 0 |
 | GE HealthCare | workday | ✅ OK | 2026-11-26 | 1 |
-| GE Vernova | workday | ✅ OK | 2026-11-26 | 8 |
+| GE Vernova | workday | ✅ OK | 2026-11-26 | 9 |
 | GitLab | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Glance | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Grafana Labs | greenhouse | ✅ OK | 2026-11-26 | 0 |
