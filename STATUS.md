@@ -2,7 +2,7 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-27 (IST)
+**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-28 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Cisco | workday | ✅ OK | 2026-11-27 | 1 |
 | Cohesity | workday | ✅ OK | 2026-11-27 | 0 |
 | Databricks | greenhouse | ✅ OK | 2026-11-27 | 0 |
-| Deutsche Bank | workday | ✅ OK | 2026-11-27 | 2 |
+| Deutsche Bank | workday | ✅ OK | 2026-11-27 | 3 |
 | Goldman Sachs | custom | ✅ OK | 2026-11-27 | 0 |
 | Google | custom | ✅ OK | 2026-11-27 | 2 |
 | Graviton Research Capital | greenhouse | ✅ OK | 2026-11-27 | 0 |
@@ -134,7 +134,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Razorpay | greenhouse | ✅ OK | 2026-11-27 | 0 |
 | Roblox | greenhouse | ✅ OK | 2026-11-27 | 0 |
 | Rockwell Automation | workday | ✅ OK | 2026-11-27 | 0 |
-| S&P Global | workday | ✅ OK | 2026-11-27 | 2 |
+| S&P Global | workday | ✅ OK | 2026-11-27 | 3 |
 | Sabre | workday | ✅ OK | 2026-11-27 | 0 |
 | Samsara | greenhouse | ✅ OK | 2026-11-27 | 0 |
 | Sarvam AI | ashby | ✅ OK | 2026-11-27 | 1 |

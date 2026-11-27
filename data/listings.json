@@ -14,7 +14,7 @@
     "locations": [
       "Bengaluru"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "ashby",
     "status": "open",
@@ -2274,7 +2274,7 @@
     "locations": [
       "India, Bangalore, Nova"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -4179,7 +4179,7 @@
       "Bangalore, India",
       "Pune, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -4360,6 +4360,28 @@
     "status": "closed",
     "title": "IGTC Interns 2027",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452577"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R0455693",
+    "first_seen": "2026-11-27T20:03:24.611598Z",
+    "id": "workday:deutsche-bank:R0455693",
+    "is_remote": false,
+    "last_seen": "2026-11-27",
+    "locations": [
+      "Pune - Business Bay"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "BITS Interns Jan - June 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/BITS-Interns-Jan---June-2027_R0455693"
   },
   {
     "category": "other",
@@ -5374,7 +5396,7 @@
     "locations": [
       "Bangalore-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5396,7 +5418,7 @@
     "locations": [
       "Bangalore-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5418,7 +5440,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5440,7 +5462,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5462,7 +5484,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5484,7 +5506,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5506,7 +5528,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5778,7 +5800,7 @@
       "Hyderabad - Phoenix Aquila, India",
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6042,7 +6064,7 @@
     "locations": [
       "Chennai (ex Madras)"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -6226,7 +6248,7 @@
     "locations": [
       "Mumbai, Maharastra"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6256,7 +6278,7 @@
     "locations": [
       "Ahmedabad, Gujarat"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6292,6 +6314,28 @@
     "status": "closed",
     "title": "Apprentice, Client Support",
     "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Apprentice--Client-Support_332888-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "S&P Global",
+    "company_slug": "sp-global",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "333054-1",
+    "first_seen": "2026-11-27T20:03:24.611598Z",
+    "id": "workday:sp-global:333054-1",
+    "is_remote": false,
+    "last_seen": "2026-11-27",
+    "locations": [
+      "Ahmedabad, Gujarat"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Apprentice, Capital Markets Client Support",
+    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Capital-Markets-Client-Support_333054-1"
   },
   {
     "category": "other",
